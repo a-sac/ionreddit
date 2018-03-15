@@ -1,0 +1,8 @@
+{
+  "name": "ionreddit",
+  "app_id": "f7d75909",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
